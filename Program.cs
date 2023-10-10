@@ -47,6 +47,7 @@ public class Calculator
             result = firstNumber / secondNumber;
         }
 
+        Console.WriteLine(result);
         result2 = result;
 
         while (check == true)
