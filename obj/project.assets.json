@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maxx5\\.nuget\\packages\\": {}
+    "C:\\Users\\is22-11\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxx5\\Desktop\\calculator\\calculator.csproj",
+      "projectUniqueName": "C:\\Users\\is22-11\\Desktop\\calculator_c-sharp\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "C:\\Users\\maxx5\\Desktop\\calculator\\calculator.csproj",
-      "packagesPath": "C:\\Users\\maxx5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxx5\\Desktop\\calculator\\obj\\",
+      "projectPath": "C:\\Users\\is22-11\\Desktop\\calculator_c-sharp\\calculator.csproj",
+      "packagesPath": "C:\\Users\\is22-11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\is22-11\\Desktop\\calculator_c-sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maxx5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\is22-11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

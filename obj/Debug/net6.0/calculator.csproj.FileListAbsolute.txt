@@ -13,3 +13,17 @@ C:\Users\maxx5\Desktop\calculator\obj\Debug\net6.0\refint\calculator.dll
 C:\Users\maxx5\Desktop\calculator\obj\Debug\net6.0\calculator.pdb
 C:\Users\maxx5\Desktop\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
 C:\Users\maxx5\Desktop\calculator\obj\Debug\net6.0\ref\calculator.dll
+C:\Users\is22-11\Desktop\calculator_c-sharp\bin\Debug\net6.0\calculator.exe
+C:\Users\is22-11\Desktop\calculator_c-sharp\bin\Debug\net6.0\calculator.deps.json
+C:\Users\is22-11\Desktop\calculator_c-sharp\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\is22-11\Desktop\calculator_c-sharp\bin\Debug\net6.0\calculator.dll
+C:\Users\is22-11\Desktop\calculator_c-sharp\bin\Debug\net6.0\calculator.pdb
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.dll
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\refint\calculator.dll
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.pdb
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+C:\Users\is22-11\Desktop\calculator_c-sharp\obj\Debug\net6.0\ref\calculator.dll

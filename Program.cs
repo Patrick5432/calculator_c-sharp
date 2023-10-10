@@ -4,22 +4,22 @@ public class Calculator
 {
     public static void Main()
     {
-        int result = 0;
-        int result2 = 0;
-        int firstNumber = 0;
-        int secondNumber = 0;
+        double result = 0;
+        double result2 = 0;
+        double firstNumber = 0;
+        double secondNumber = 0;
         string sign = "";
         string question = "";
         bool check = true;
 
         Console.WriteLine("Введите число");
-        firstNumber = Convert.ToInt32(Console.ReadLine());
+        firstNumber = Convert.ToInt64(Console.ReadLine());
 
         Console.WriteLine("Введите знак");
         sign = Console.ReadLine();
 
         Console.WriteLine("Введите число");
-        secondNumber = Convert.ToInt32(Console.ReadLine());
+        secondNumber = Convert.ToInt64(Console.ReadLine());
 
         if (sign == "/" && secondNumber == 0)
         {
@@ -54,10 +54,10 @@ public class Calculator
             Console.WriteLine("Продолжить?");
             question = Console.ReadLine();
 
-            if (question == "Да" || question == "да")
+            if (question == "yes" || question == "Yes")
             {
                 Console.WriteLine("Введите число");
-                secondNumber = Convert.ToInt32(Console.ReadLine());
+                secondNumber = Convert.ToInt64(Console.ReadLine());
 
                 Console.WriteLine("Введите знак");
                 sign = Console.ReadLine();
@@ -90,7 +90,7 @@ public class Calculator
                 Console.WriteLine(result2);
             }
 
-            else if (question == "Нет" || question == "нет")
+            else if (question == "No" || question == "no")
             {
                 Console.WriteLine("Ответ: " + result2);
                 check = false;
